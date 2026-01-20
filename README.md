@@ -9,11 +9,11 @@
  </p>
 <p align="center"> 
 ﹒⌗﹒
-  <a href=" ">Sтгαω</a>
+  <a href="https://dogra-magra.straw.page/">Sтгαω</a>
 .ραgє ||
-  . ✮ . ||
-<a href=" ">αтα</a>
-  вσσĸ.σгg . ♫ .
+  . ✮ . || sıgη мγ
+<a href="https://childhoodcomforts.atabook.org/">αтα</a>
+  вσσĸ plz . ♫ .
 </p> 
 <p align="center">
   <img src="kyu stampspsspps.gif" width="120" alt="kyu stampspsspps" />
