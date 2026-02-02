@@ -17,6 +17,8 @@
 </p> 
 <p align="center">
   <img src="kyu stampspsspps.gif" width="120" alt="kyu stampspsspps" />
+  <img width="100" height="100" alt="sign ata bro, sign" src="https://github.com/user-attachments/assets/67b1e9ea-79bd-4c1a-b5d6-42a2f53f282b" />
+  <img width="100" height="100" alt="INTERNET ADDICTED" src="https://github.com/user-attachments/assets/f31fe625-c8fc-4a30-a474-a66b97191a70" />
 </p>
 <p align="center">
   <img width="1280" height="102" alt="tumblr idk" src="https://github.com/user-attachments/assets/88306b5c-4cf7-49fc-a35c-7c7f4b34aed2" />
