@@ -23,7 +23,7 @@ $${\color{#adbeff} || вσσĸ ⠀plz . ♫ . }$$
   @mimi and viv,, us fr ↷
 </p>
 <p align="center">
- <img width="300" height="300" alt="Triple baka stamp" src="https://github.com/user-attachments/assets/05e1b133-34a8-4e04-bae1-7443b2139b6b" />
+ <img width="200" height="200" alt="Triple baka stamp" src="https://github.com/user-attachments/assets/05e1b133-34a8-4e04-bae1-7443b2139b6b" />
 </p>
 <p align="center">
   <img width="1280" height="102" alt="tumblr idk" src="https://github.com/user-attachments/assets/88306b5c-4cf7-49fc-a35c-7c7f4b34aed2" />
