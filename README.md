@@ -28,8 +28,9 @@ $${\color{#adbeff} || вσσĸ ⠀plz . ♫ . }$$
 <p align="center">
   <img width="1280" height="102" alt="tumblr idk" src="https://github.com/user-attachments/assets/88306b5c-4cf7-49fc-a35c-7c7f4b34aed2" />
 </p>
-
-<p align="center">
+<div align="center">
+<details>
+<summary>To my dearest @userrrxDDD Mimi... I present u a my fanart of ur Us🌀r!!</summary>
   <img width="700" height="700" alt="My fanart of Us@r" src="https://github.com/user-attachments/assets/4c6e9765-f5de-440c-8b11-6d8e754e9361" />
-</p>
-to my dearest @userrrxDDD Mimi... I present u a my fanart of ur Us🌀r!!
+  </details>
+</div>
