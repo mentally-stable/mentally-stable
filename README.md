@@ -33,4 +33,8 @@ $${\color{#adbeff} || вσσĸ ⠀plz . ♫ . }$$
 <summary>To my dearest @userrrxDDD Mimi... I present u a my fanart of ur Us🌀r!!</summary>
   <img width="700" height="700" alt="My fanart of Us@r" src="https://github.com/user-attachments/assets/4c6e9765-f5de-440c-8b11-6d8e754e9361" />
   </details>
+<details>
+  <summary>Also to my dearest @Withered-Bows Viv... I present to u my birthday art for u !!</summary>
+  <img width="700" height="700" alt="fanart of S1lly!!" src="https://github.com/user-attachments/assets/2944cb87-fed0-4d40-ba3c-f46c38c225e3" />
+</details>
 </div>
