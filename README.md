@@ -4,7 +4,7 @@ wip okay...
 </p>
 <p align="center">
 <p align="center">
-<img src="Kyusaku Graphic by me!.png" width="400" height="400" alt="Kyusaku Graphic by me!">
+<img src= ----
  </p>
 <p align="center"> 
  $${\color{#f7df57}⠀﹒⌗﹒  }$$ <a href="https://dogra-magra.straw.page/">Sтгαω</a>
