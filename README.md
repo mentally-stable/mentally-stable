@@ -4,7 +4,7 @@ wip okay...
 </p>
 <p align="center">
 <p align="center">
-<img src= ----
+<img src= "https://i.pinimg.com/originals/2e/48/6e/2e486e058d4e9921f2aec14c22f28d91.gif" width="400" height"400"
  </p>
 <p align="center"> 
  $${\color{#f7df57}⠀﹒⌗﹒  }$$ <a href="https://dogra-magra.straw.page/">Sтгαω</a>
