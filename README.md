@@ -10,5 +10,5 @@ sign <a href="https://dogra-magra.straw.page/">straw</a>
  or
 <a href="https://childhoodcomforts.atabook.org/">ata</a>
 pls
- .. kisses for <a href="https://github.com/userxDDD/">mimi</a> and <a href="https://github.com/Withered-Bows"> viv</a> and Qsaku !!
+ .. kisses for <a href="https://github.com/userrrxDDD/">mimi</a> and <a href="https://github.com/Withered-Bows"> viv</a> and Qsaku !!
 </p>
