@@ -1,6 +1,6 @@
-<img width="1212" height="150" alt="Upper banner lace" src="https://github.com/user-attachments/assets/8d6ccc07-91c0-476a-bbc0-8143aab88aa1" />
+<img width="1212" height="150" alt="Upper banner lace" src="Upper_banner_lace-removebg-preview.png" />
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=childhoodcomforts&color=12104d&style=for-the-badge&label=hqnd⠀mqrks"/>
+  <img src="https://komarev.com/ghpvc/?username=childhoodcomforts&color=12104d&style=for-the-badge&label=hand⠀marks"/>
 </p>
 <div align="center">
 <table>
@@ -8,7 +8,7 @@
 
 <td>
 
-<img width="270" height="400" alt="Qsaku doodle" src="https://github.com/user-attachments/assets/36c73bc3-ee90-475d-9c30-dceb701fa253"/>
+<img width="270" height="400" alt="Qsaku doodle" src="Qsaku doodle.png"/>
 
 </td>
 
@@ -24,16 +24,26 @@ $${\color{#7f8cb5}⠀ 〝⠀𝘸𝘲𝘯𝘯𝘲⠀𝘱𝘭𝘲𝘺⠀𝘸𝘪�
 $${\color{#1d2d8a}⠀⠀ ⠀𝘲𝘳𝘵⠀𝘣𝘺⠀𝘮𝘦⠀⠀(𝘪𝘯𝘤𝘭𝘶𝘥𝘦⠀𝘱𝘧𝘱)⠀ }$$
 
 <a href="https://signing-this.atabook.org">𝘴𝘪𝘨𝘯𝘲𝘵𝘶𝘳𝘦𝘴</a> 
-
-<img width="90" height="40" alt="Qsaku bqnner" src="https://github.com/user-attachments/assets/b180047b-1a58-4dfa-ad0e-2413cd059dfc" />
-
-<a href="https://rotting-bedroom.straw.page">𝘣𝘦𝘥𝘳𝘰𝘰𝘮</a>
+$${\color{#111673}⠀ +⠀ }$$
+<a href="https://rotting-bedroom.straw.page">𝘳𝘰𝘰𝘮</a>
 </div>
 </td>
 
 </tr>
 </table>
 </div>
-<img width="1212" height="150" alt="Bottom banner lace" src="https://github.com/user-attachments/assets/5bdfebe2-0101-4fcd-b1db-1e5396d381f3" />
+<div align="center">
+<img width="150" height="100" alt="Qsaku bqnner" src="Qsaku bqnner.png" />
 </div>
+<img width="1212" height="150" alt="Bottom banner lace" src="Bottom_banner_lace-removebg-preview.png" />
+</div>
+</div>
+<div align="center">
+  
+$${\color{#dfddc7}𝙝}$$ 
+$${\color{#bfbfbf}𝙚}$$ 
+$${\color{#7f8cb5}𝙖}$$ 
+$${\color{#1d2d8a}𝙫}$$ 
+$${\color{#111673}𝙮⠀}$$ 
+  <a href="https://pin.it/5dSXnWYi8">𝘪 𝘯 𝘴 𝘱 𝘰</a> 
 </div>
