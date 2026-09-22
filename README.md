@@ -5,6 +5,7 @@
     <img width="400" height="340" alt="Untitled65_20260919192229" src="https://github.com/user-attachments/assets/441488e9-a3bf-4714-9eb6-124c34fd9ddd" />
 </p>
 
+$${\color{#50498d} 𝖫𝖾𝖺𝗏𝖾⠀𝗆𝖾⠀𝖽𝗈𝗐𝗇⠀𝗈𝗇⠀𝗍𝗁𝖾⠀𝖽𝖺𝗇𝖼𝖾⠀𝖿𝗅𝗈𝗈𝗋 }$$
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rgaluy7wkldvnf7b22nnvttvki&redirect=true">
