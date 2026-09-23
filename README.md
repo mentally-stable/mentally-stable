@@ -5,7 +5,15 @@
     <img width="400" height="340" alt="Untitled65_20260919192229" src="https://github.com/user-attachments/assets/441488e9-a3bf-4714-9eb6-124c34fd9ddd" />
 </p>
 
-$${\color{#50498d} 𝖫𝖾𝖺𝗏𝖾⠀𝗆𝖾⠀𝖽𝗈𝗐𝗇⠀𝗈𝗇⠀𝗍𝗁𝖾⠀𝖽𝖺𝗇𝖼𝖾⠀𝖿𝗅𝗈𝗈𝗋 }$$
+<p align="center">
+⠀ $${\color{#c28187}𝗅𝖾𝖺𝗏𝖾}$$ $${\color{#ab7f8e}𝗆𝖾}$$ $${\color{#80678f}𝖽𝗈𝗐𝗇}$$ $${\color{#50498d}𝗈𝗇}$$ $${\color{#80678f}𝗍𝗁𝖾}$$ $${\color{#ab7f8e}𝖽𝖺𝗇𝖼𝖾}$$ $${\color{#c28187}𝖿𝗅𝗈𝗈𝗋}$$ ⠀
+</p>
+
+<p align="center">
+⠀ $${\color{#c28187}𝖨}$$ $${\color{#ab7f8e}𝖼𝖺𝗇'𝗍}$$ $${\color{#80678f}𝗉𝗂𝖼𝗄}$$ $${\color{#50498d}𝗎𝗉}$$ $${\color{#80678f}𝗆𝗒𝗌𝖾𝗅𝖿}$$ $${\color{#ab7f8e}𝗇𝗈}$$ $${\color{#c28187}𝗆𝗈𝗋𝖾}$$ ⠀
+</p>
+
+$${\color{#c28187} 𝖨⠀𝖣𝖤𝖲𝖤𝖱𝖵𝖤⠀𝗍𝗁𝗂𝗌. }$$
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rgaluy7wkldvnf7b22nnvttvki&redirect=true">
@@ -13,4 +21,4 @@ $${\color{#50498d} 𝖫𝖾𝖺𝗏𝖾⠀𝗆𝖾⠀𝖽𝗈𝗐𝗇⠀𝗈𝗇
   </a>
 </p>
 
-![test](https://img.shields.io/badge/yo_its_a_wip-bfbfbf?style=flat)
+![test](https://img.shields.io/badge/still_a_wip-000000?style=for-the-badge)
