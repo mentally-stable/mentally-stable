@@ -1,6 +1,12 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=childhoodcomforts&color=000000&style=for-the-badge&label=hurt⠀me"/>
 </p>
+
+<p align="center">
+<a href="https://rotting-bedroom.straw.page">B</a>$${\color{#ab7f8e}𝖾𝖽⠀𝗋𝗈𝗈𝗆}$$⠀
+<a href="https://pronouns.cc/@qsakuyume">Hello</a>$${\color{#ab7f8e}𝗋𝗈𝗈𝗆}$$⠀
+</p>
+
 <p align="center">
     <img width="400" height="340" alt="Untitled65_20260919192229" src="https://github.com/user-attachments/assets/441488e9-a3bf-4714-9eb6-124c34fd9ddd" />
 </p>
@@ -13,7 +19,9 @@
 ⠀ $${\color{#c28187}𝖨}$$ $${\color{#ab7f8e}𝖼𝖺𝗇'𝗍}$$ $${\color{#80678f}𝗉𝗂𝖼𝗄}$$ $${\color{#50498d}𝗎𝗉}$$ $${\color{#80678f}𝗆𝗒𝗌𝖾𝗅𝖿}$$ $${\color{#ab7f8e}𝗇𝗈}$$ $${\color{#c28187}𝗆𝗈𝗋𝖾}$$ ⠀
 </p>
 
-$${\color{#c28187} 𝖨⠀𝖣𝖤𝖲𝖤𝖱𝖵𝖤⠀𝗍𝗁𝗂𝗌. }$$
+<p align="center">
+⠀⠀<img src="https://img.shields.io/badge/I-ab7f8e?style=for-the-badge"/> <img src="https://img.shields.io/badge/DESERVE-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/this-80678f?style=for-the-badge"/> $${\color{#50498d}.}$$ ⠀
+</p>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rgaluy7wkldvnf7b22nnvttvki&redirect=true">
