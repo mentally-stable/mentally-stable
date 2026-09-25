@@ -13,18 +13,17 @@
 </p>
 
 <p align="center">
-⠀ $${\color{#c28187}𝗅𝖾𝖺𝗏𝖾}$$ $${\color{#ab7f8e}𝗆𝖾}$$ $${\color{#80678f}𝖽𝗈𝗐𝗇}$$ $${\color{#50498d}𝗈𝗇}$$ $${\color{#80678f}𝗍𝗁𝖾}$$ $${\color{#ab7f8e}𝖽𝖺𝗇𝖼𝖾}$$ $${\color{#c28187}𝖿𝗅𝗈𝗈𝗋}$$ ⠀
+⠀ $${\color{#c28187}♬⠀𝗅𝖾𝖺𝗏𝖾}$$ $${\color{#ab7f8e}𝗆𝖾}$$ $${\color{#80678f}𝖽𝗈𝗐𝗇}$$ $${\color{#50498d}𝗈𝗇}$$ $${\color{#80678f}𝗍𝗁𝖾}$$ $${\color{#ab7f8e}𝖽𝖺𝗇𝖼𝖾}$$ $${\color{#c28187}𝖿𝗅𝗈𝗈𝗋}$$ ⠀
 </p>
 
 <p align="center">
-⠀ $${\color{#c28187}𝖨}$$ $${\color{#ab7f8e}𝖼𝖺𝗇'𝗍}$$ $${\color{#80678f}𝗉𝗂𝖼𝗄}$$ $${\color{#50498d}𝗎𝗉}$$ $${\color{#80678f}𝗆𝗒𝗌𝖾𝗅𝖿}$$ $${\color{#ab7f8e}𝗇𝗈}$$ $${\color{#c28187}𝗆𝗈𝗋𝖾}$$ ⠀
+⠀ $${\color{#c28187}𝖨}$$ $${\color{#ab7f8e}𝖼𝖺𝗇'𝗍}$$ $${\color{#80678f}𝗉𝗂𝖼𝗄}$$ $${\color{#50498d}𝗎𝗉}$$ $${\color{#80678f}𝗆𝗒𝗌𝖾𝗅𝖿}$$ $${\color{#ab7f8e}𝗇𝗈}$$ $${\color{#c28187}𝗆𝗈𝗋𝖾ˎˊ˗}$$ ⠀
 </p>
 
 <p align="center">
 ⠀⠀<img src="https://img.shields.io/badge/I-ab7f8e?style=for-the-badge"/> <img src="https://img.shields.io/badge/DESERVE-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/this-80678f?style=for-the-badge"/> $${\color{#50498d}.}$$ ⠀
 </p>
 
-<p align="center">
 <p align="center">
 ⠀ $${\color{#ab7f8e}⏔}$$ $${\color{#50498d}⏔}$$ $${\color{#ab7f8e}⏔}$$ ⠀
 </p>
@@ -35,9 +34,7 @@
   </a>
 </p>
 
-  <p align="center">  
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=childhoodcomforts&repo=childhoodcomforts&label=Sign%20ata%20pls!&labelColor=%23555555&countColor=%23000000&style=for-the-badge" alt="Profile views"/>
-</p>
-
+  <p align="center"> 
+  ⠀ $${\color{#c28187}⏔⏔}$$ $${\color{#ab7f8e}✦}$$ $${\color{#80678f}⏔⏔⠀}$$<img src="https://api.visitorbadge.io/api/VisitorHit?user=childhoodcomforts&repo=childhoodcomforts&label=Sign%20ata%20pls!&labelColor=%23555555&countColor=%23000000&style=for-the-badge" alt="Profile views"/>$${\color{#80678f}⠀⏔⏔}$$ $${\color{#ab7f8e}✦}$$ $${\color{#c28187}⏔⏔}$$
 </p>
 
