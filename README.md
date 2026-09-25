@@ -1,10 +1,11 @@
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=childhoodcomforts&color=000000&style=for-the-badge&label=hurt⠀me"/>
+  ⠀ $${\color{#c28187}⏔⏔}$$ $${\color{#ab7f8e}✦}$$ $${\color{#80678f}⏔⏔⠀}$$<img src="https://komarev.com/ghpvc/?username=childhoodcomforts&color=000000&style=for-the-badge&label=hurt⠀me"/>$${\color{#80678f}⠀⏔⏔}$$ $${\color{#ab7f8e}✦}$$ $${\color{#c28187}⏔⏔}$$
 </p>
 
 <p align="center">
-<a href="https://rotting-bedroom.straw.page">B</a>$${\color{#ab7f8e}𝖾𝖽⠀𝗋𝗈𝗈𝗆}$$⠀
-<a href="https://pronouns.cc/@qsakuyume">Hello</a>$${\color{#ab7f8e}𝗋𝗈𝗈𝗆}$$⠀
+<a href="https://rotting-bedroom.straw.page">Bed</a>$${\color{#ab7f8e}𝗋𝗈𝗈𝗆}$$ $${\color{#50498d}ᛝ}$$
+<a href="https://pronouns.cc/@qsakuyume">About</a>$${\color{#ab7f8e} 𝗆𝖾}$$ $${\color{#50498d}ᛝ}$$
+<a href="https://signing-this.atabook.org">新</a>$${\color{#ab7f8e} 𝖻𝗈𝗈𝗄}$$
 </p>
 
 <p align="center">
@@ -24,9 +25,19 @@
 </p>
 
 <p align="center">
+<p align="center">
+⠀ $${\color{#ab7f8e}⏔}$$ $${\color{#50498d}⏔}$$ $${\color{#ab7f8e}⏔}$$ ⠀
+</p>
+
+ <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rgaluy7wkldvnf7b22nnvttvki&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rgaluy7wkldvnf7b22nnvttvki&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rgaluy7wkldvnf7b22nnvttvki&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
 
-![test](https://img.shields.io/badge/still_a_wip-000000?style=for-the-badge)
+  <p align="center">  
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=childhoodcomforts&repo=childhoodcomforts&label=Sign%20ata%20pls!&labelColor=%23555555&countColor=%23000000&style=for-the-badge" alt="Profile views"/>
+</p>
+
+</p>
+
