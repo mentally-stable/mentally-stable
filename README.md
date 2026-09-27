@@ -1,5 +1,5 @@
 <p align="center"> 
-  ⠀ $${\color{#c28187}⏔⏔}$$ $${\color{#ab7f8e}✦}$$ $${\color{#80678f}⏔⏔⠀}$$<img src="https://komarev.com/ghpvc/?username=childhoodcomforts&color=000000&style=for-the-badge&label=hurt⠀me"/>$${\color{#80678f}⠀⏔⏔}$$ $${\color{#ab7f8e}✦}$$ $${\color{#c28187}⏔⏔}$$
+  ⠀ $${\color{#c28187}⏔}$$ $${\color{#ab7f8e}✦}$$ $${\color{#80678f}⏔⠀}$$<img src="https://komarev.com/ghpvc/?username=childhoodcomforts&color=000000&style=for-the-badge&label=hurt⠀me"/>$${\color{#80678f}⠀⏔}$$ $${\color{#ab7f8e}✦}$$ $${\color{#c28187}⏔}$$
 </p>
 
 <p align="center">
@@ -35,6 +35,6 @@
 </p>
 
   <p align="center"> 
-  ⠀ $${\color{#c28187}⏔⏔}$$ $${\color{#ab7f8e}✦}$$ $${\color{#80678f}⏔⏔⠀}$$<img src="https://api.visitorbadge.io/api/VisitorHit?user=childhoodcomforts&repo=childhoodcomforts&label=Sign%20ata%20pls!&labelColor=%23555555&countColor=%23000000&style=for-the-badge" alt="Profile views"/>$${\color{#80678f}⠀⏔⏔}$$ $${\color{#ab7f8e}✦}$$ $${\color{#c28187}⏔⏔}$$
+  ⠀ $${\color{#c28187}⏔}$$ $${\color{#ab7f8e}✦}$$ $${\color{#80678f}⏔⠀}$$<img src="https://api.visitorbadge.io/api/VisitorHit?user=childhoodcomforts&repo=childhoodcomforts&label=Sign%20ata%20pls!&labelColor=%23555555&countColor=%23000000&style=for-the-badge" alt="Profile views"/>$${\color{#80678f}⠀⏔}$$ $${\color{#ab7f8e}✦}$$ $${\color{#c28187}⏔}$$
 </p>
 
