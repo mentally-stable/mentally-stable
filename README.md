@@ -8,6 +8,11 @@
 <a href="https://signing-this.atabook.org">新</a>$${\color{#ab7f8e} 𝖻𝗈𝗈𝗄}$$
 </p>
 
+<table align="center">
+<tr><td> <p align="center"> 𝖳𝗁𝖾 𝗉𝖿𝗉 𝖺𝗇𝖽 𝖺𝗋𝗍 𝖻𝖾𝗅𝗈𝗐 𝗂𝗌 𝗇𝗈𝗍 𝖽𝗋𝖺𝗐𝗇 𝖻𝗒 𝗆𝖾; </p> </td>
+<tr><td> <p align="center"> 𝖻𝗈𝗍𝗁 𝖺𝗋𝖾 𝗈𝗐𝗇𝖾𝖽 𝖻𝗒 𝗍𝗁𝖾𝗂𝗋 𝖵𝖤𝖱𝖸 𝗍𝖺𝗅𝖾𝗇𝗍𝖾𝖽 𝗈𝗐𝗇𝖾𝗋 </p></td>
+</table>
+
 <p align="center">
     <img width="400" height="340" alt="Untitled65_20260919192229" src="https://github.com/user-attachments/assets/441488e9-a3bf-4714-9eb6-124c34fd9ddd" />
 </p>
@@ -37,4 +42,3 @@
   <p align="center"> 
   ⠀ $${\color{#c28187}⏔}$$ $${\color{#ab7f8e}✦}$$ $${\color{#80678f}⏔⠀}$$<img src="https://api.visitorbadge.io/api/VisitorHit?user=childhoodcomforts&repo=childhoodcomforts&label=Sign%20ata%20pls!&labelColor=%23555555&countColor=%23000000&style=for-the-badge" alt="Profile views"/>$${\color{#80678f}⠀⏔}$$ $${\color{#ab7f8e}✦}$$ $${\color{#c28187}⏔}$$
 </p>
-
