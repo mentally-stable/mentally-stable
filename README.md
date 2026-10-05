@@ -5,7 +5,7 @@
 <p align="center">
 ⠀<a href="https://rotting-bedroom.straw.page">Bed</a>$${\color{#ab7f8e}𝗋𝗈𝗈𝗆}$$ $${\color{#50498d}ᛝ}$$
 <a href="https://pronouns.cc/@qsakuyume">About</a>$${\color{#ab7f8e} 𝗆𝖾}$$ $${\color{#50498d}ᛝ}$$
-<a href="https://signing-this.atabook.org">新</a>$${\color{#ab7f8e} 𝖻𝗈𝗈𝗄}$$
+<a href="https://sign-ave.atabook.org/">新</a>$${\color{#ab7f8e} 𝖻𝗈𝗈𝗄}$$
 </p>
 
 <p align="center">
